@@ -16,7 +16,7 @@ git clone <repository-url>
 2. Navigate to the project directory:
 
 ```
-cd sign-up-react-app
+cd react-sign-up-app
 ```
 
 3. Install dependencies using npm:
